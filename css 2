@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>hnjinr.me</title>
+        <link rel="stylesheet" href="cascade.css">
+    </head>
+
+    <body>
+        a nice webpage
+    </body>
+
+    <div class="social">
+        <p>I may be found on...</p>
+        <p>Additionally, I have a profile on...</p>
+    </div>
+
+    <h1>heading level 1</h1>
+    <h2>heading level 2</h2>
+
+    <nav>...</nav>
+</html>
